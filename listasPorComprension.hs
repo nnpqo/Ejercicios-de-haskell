@@ -1,0 +1,2 @@
+--Una función que reciba una cadena y la encripte, cambiando las vocales por los
+--caracteres correspondientes a los dígitos 1,2,3,4,5 respectivamente.
